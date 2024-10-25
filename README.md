@@ -1,4 +1,5 @@
 ## Hi there 👋
+well I'm just trying to learn how to using the github.
 
 <!--
 **LiQingdao9627/LiQingdao9627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
